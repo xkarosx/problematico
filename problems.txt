@@ -1,1 +1,5 @@
+ok...the first one!
+[SOLVED]pm2 wont get recognized in adminstrator cmd. but it would get recognized in normal cmd
+fix:use npx if you installed it using npm.
 
+[NOT SOLVED]pm2 stuck in summoning daemon.
